@@ -1,6 +1,6 @@
 # Task-App
 
-![Screen Project](Images/Screen-Project.png)
+![Screen Project](src/assets/Images/Screen-Project.png)
 
 ## Url
 https://taskapp2024.netlify.app/
