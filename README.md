@@ -6,7 +6,7 @@
 https://taskapp2024.netlify.app/
 
 ### About
-A small project with React and using axios to get data This project is a cryptocurrency search panel and also has a brief login form.
+A small project with Vue and using vue-i18n for translate.
 
 ## Project setup
 ```
