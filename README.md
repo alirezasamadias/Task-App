@@ -1,4 +1,4 @@
-# task-app
+# Task-App
 
 ![Screen Project](Images/Screen-Project.png)
 
