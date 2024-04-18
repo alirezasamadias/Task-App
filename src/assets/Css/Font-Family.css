@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Vollkorn';
+    src: url('../Fonts/Vollkorn/Vollkorn-Regular.eot');
+    src: url('../Fonts/Vollkorn/Vollkorn-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../Fonts/Vollkorn/Vollkorn-Regular.woff2') format('woff2'),
+        url('../Fonts/Vollkorn/Vollkorn-Regular.woff') format('woff'),
+        url('../Fonts/Vollkorn/Vollkorn-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
